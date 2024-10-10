@@ -9,5 +9,5 @@ import UIKit
 
 struct Images {
     static let cart: UIImage = UIImage(systemName: "cart")!
-    
+    static let defaultImage: UIImage = UIImage(systemName: "photo.fill")!
 }
