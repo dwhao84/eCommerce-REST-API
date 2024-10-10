@@ -6,3 +6,8 @@
 //
 
 import UIKit
+
+struct Color {
+    static let customBGColor = UIColor(named: "customBackgroundColor")!
+    static let productTitleColor  = UIColor(named: "customContextColor")!
+}
